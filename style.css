@@ -1,0 +1,128 @@
+*{
+
+	margin:0px;
+	padding:0px;
+
+}
+body{
+
+	background:#F0F2F5;
+
+}
+.Logo{
+
+
+ 	margin-top: 175px;
+    margin-left: 132px;
+
+
+}
+.Logo img{
+
+	width: 350px;
+	height: 106px;
+	margin-bottom: -11px;
+}
+.Logo p{
+    
+	font-size: 28px;
+	font-weight: 300; 
+	font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;  
+    line-height: 32px;
+	width: 500px; 
+    margin-left: 52px;
+        
+}
+
+/*-------------------LOGIN BOX----------------------*/
+
+.MainDiv{
+	
+		background: #ffffff;
+	width: 400px;
+	float:right;
+	margin-right: 200px;
+	margin-top: -195px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 15px -5px #0000004f;
+}
+.MainDiv input{
+
+	width: 84%;
+	padding: 15px;
+	margin-left: 15px;
+	margin-bottom: -5px;
+	border-color: #a5939330;
+	outline-color: #1877f2cc;
+	border-radius: 5px;
+	font-size: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	background: #ffffff;
+	margin-top: 15px;
+
+}
+input.LoginBtn {
+    width: 369px;
+    background: #166FE5;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px !important;
+    font-weight:bold;
+    cursor: pointer;
+}
+.ForgetPassword{
+
+	text-decoration:none;
+	font-family: inherit;
+	font-size: 14px;
+	font-weight: 500;
+	color: #1877f2;
+	cursor: pointer;
+	font-family: sans-serif;
+}
+.MARGIN {
+    margin: 20px 16px;
+    text-align: center;
+    display: flex;
+    border-bottom: 1px solid #bdcada;
+    text-align: center;
+}
+#CeateAccount{
+
+	width: 369px;
+	background: #166FE5;
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px !important;
+	font-weight:bold;
+	cursor: pointer;
+}
+#CeateAccount {
+    width: 200px;
+    height: 50px;
+    font-size: 17px !important;
+    background: #36A420 !important;
+    justify-content: !important;
+    margin-left: 100px;
+    margin-top: 5px;
+    color: #FFFFFF;
+    outline:none;
+}
+#CeateAccount:hover{
+
+	background: #21a906e3 !important;
+}
+#CreatePage {
+    float: right;
+    margin-top: 30px;
+    margin-left: 450px;
+    margin-right: 250px;
+    font-family: sans-serif;
+    font-size:14px;
+}
+#CreatePage span a{
+
+	text-decoration:none;
+	font-weight:bold;
+	color: #000000e3;
+}
